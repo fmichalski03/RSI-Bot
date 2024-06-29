@@ -9,11 +9,7 @@ This is a Discord bot that fetches K-line data for the SOL/USDT pair from Bybit,
 
 ## How to Run
 
-1. Clone this repository:
-
-```commandline
-git clone https://github.com/your-username/discord-rsi-alert-bot.git
-```
+1. Clone this repository.
 2. Replace __TOKEN__ and __CHANNEL_ID__ in bot.py with your Discord bot token and channel ID.
 3. Build the Docker image:
 ```commandline
